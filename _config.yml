@@ -2,7 +2,7 @@
 title: BY Blog
 SEOTitl: 王路西的博客 | BY Blog
 header-img: img/post-bg-desk.jpg
-email:luxiwang601@gmail.com
+email:luxi.wang601@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 王路西的博客, wangluxi,王路西, iOS, Apple, iPhone"
 url: "http://benew-2012.github.io"          # your host, for absolute URL
@@ -22,7 +22,7 @@ RSS: false
 zhihu_username:  benew-2012
 github_username:  benew-2012
 jianshu_username:   b0502a9c5d7b
-#twitter_username:   qiubaiying
+#twitter_username:   benew-2012
 
 
 
@@ -56,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: benew-2012
 
 # Gitalk
 gitalk:
